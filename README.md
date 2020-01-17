@@ -1,4 +1,4 @@
-1.the Q2 file in this package is the origianal code for Q2 to get the direct answer for 
+1.the Q2 file in this package is the origianal code for Q2 to get the direct answer for Q2.
 2.the ExtractcompanyList_indus is the function to gain the answer for (iii) in Q2
   This m.file is used to extract a type of data with two kinds of information.
   This m.file is used to extract information from original which is a structure.
